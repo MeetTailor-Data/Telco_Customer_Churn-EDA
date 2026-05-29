@@ -10,7 +10,6 @@ This project demonstrates practical data analysis skills including data
 cleaning, univariate analysis, bivariate analysis, correlation analysis,
 and business insight generation using Pandas and Matplotlib.
 
----
 
 ## Key Findings
 - Overall churn rate is 26.5% — 1 in 4 customers is leaving
@@ -22,7 +21,7 @@ and business insight generation using Pandas and Matplotlib.
 - New customers (low tenure) are the highest risk group
 - Gender has almost no impact on churn (26.9% vs 26.2%)
 
----
+
 
 ## Features
 - Load and explore real world telecom dataset
@@ -34,7 +33,7 @@ and business insight generation using Pandas and Matplotlib.
 - Correlation analysis between numeric columns
 - Business recommendations based on findings
 
----
+
 
 ## Concepts Used
 
@@ -70,16 +69,17 @@ and business insight generation using Pandas and Matplotlib.
 - Class imbalance observation
 - Business insight generation
 
----
+
 
 ## Project Structure
-telco-churn-eda/
-│
-├── telco_churn_eda.ipynb
-├── Telco-Customer-Churn.csv
-└── README.md
 
----
+ telco-churn-eda/
+ │
+ ├── telco_churn_eda.ipynb
+ ├── Telco-Customer-Churn.csv
+ └── README.md
+
+
 
 ## How to Run
 
@@ -98,7 +98,7 @@ pip install pandas numpy matplotlib
 3. Open telco_churn_eda.ipynb in Jupyter Notebook or VS Code
 4. Run all cells from top to bottom
 
----
+
 
 ## Analysis Performed
 
@@ -113,7 +113,6 @@ Correlation heatmap of numeric columns
 Business conclusions and recommendations
 
 
----
 
 ## Business Recommendations
 
@@ -125,7 +124,7 @@ Provide tech support to all customers especially in year one
 Focus retention campaigns on new customers (0-12 months)
 
 
----
+
 
 ## Dataset
 - Source: Telco Customer Churn Dataset
@@ -133,19 +132,18 @@ Focus retention campaigns on new customers (0-12 months)
 - Columns: 21 features
 - Target: Churn (Yes/No)
 
----
 
 ## Author
 Meet Tailor
 Data Science Learner
 GitHub: https://github.com/MeetTailor-Data
 
----
+
 
 ## License
 This project is created for learning and educational purposes only.
 
----
+
 
 ## Project Status
 Completed
